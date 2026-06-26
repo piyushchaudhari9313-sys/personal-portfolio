@@ -6,9 +6,10 @@
 }
 
 body{
-    background: linear-gradient(to right, #545454, #1f1f1f);
+    background: linear-gradient(to right, #545454, #262626);
     color: white;
     font-family: Arial, sans-serif;
+    background-attachment: fixed;
     scroll-behavior: smooth;
 }
 section{
@@ -131,7 +132,7 @@ section{
 }
 .service-card:hover{
     transform: translateY(-5px);
-         box-shadow: 0 0 10px #fff;
+     box-shadow: 0 0 10px #fff;
 
 }
  section h2{
@@ -165,6 +166,7 @@ p{
 .fo{
   text-align: center;
   margin-top: 3rem;
+  padding:3px;
   background-color: #1f1f1f;
   
 }
