@@ -77,4 +77,17 @@ img:hover{
      .container{
         padding: 20px;
      }
+     input{
+        width: 190px;
+     }
+     button{
+        display: inline;
+        padding: 8px;
+     }
+     #temp{
+        font-size: 2rem;
+     }
+     #type{
+        font-size: 1.7rem;
+     }
     }

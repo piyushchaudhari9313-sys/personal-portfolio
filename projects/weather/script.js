@@ -50,7 +50,7 @@ const data=async function(search){
   input.addEventListener("keydown",(press)=>{
       if(press.key==="Enter"){
          myfun();
-      }
+      } 
     });
 
 function myfun(){
